@@ -1,0 +1,258 @@
+body{
+    background-image: url(image/banar.jpg);
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.shadow{
+    box-shadow: 5px 5px 50px grey;
+}
+.social-icon, .footer-icon{
+
+}
+.social-icon ul, .footer-icon ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.social-icon ul li, .footer-icon ul li{
+    float: left;
+    margin: 20px 5px 0px 0px;
+}
+.social-icon ul li a, .footer-icon ul li a{
+    text-decoration: none;
+}
+.social-icon ul li a i, .footer-icon ul li a i{
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    display: block;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+/* table section */
+#phone{
+    color: red;
+}
+#sms{
+    color: red;
+}
+.table{
+    width: 392px;
+}
+.table tr td{
+    border: none;
+}
+.table td a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+.navbar-brand{
+    font-size: 38px;
+    margin-left: -12px;
+}
+.nav-link{
+    color: crimson;
+    font-weight: bolder;
+}
+
+
+/* background image */
+.row{
+    padding: 120px 0px;
+    background: rgba(0, 0, 0, 0.4);
+}
+.col-8 h1{
+    color: #fff;
+    font-size: 80px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    
+}
+.col-8 p{
+    color: #fff;
+    text-align: justify;
+    font-size: 22px;
+    margin: 20px 0px 40px;
+}    
+
+
+/* short description*/
+.detail{
+    padding: 80px 0px;
+}
+#short-note{
+    color: #AFBED1;
+    margin-top: 0px;
+}
+.detail p{
+    padding: 0px 0px 0px;
+    width: 450px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.detail h1{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+/* card img hover*/
+.card-deck{
+    padding: 40px 0px 80px;
+}
+.card img:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+
+/* email and notification section*/
+.email-sec{
+    background: rgba(0, 0, 0, 0.4);
+    padding: 100px 0px;
+}
+.strong{
+    color: #fff;
+    font-size: 28px;
+}
+.input-sec input{
+    width: 417px;
+    background: none;
+    border: 2px solid #fff;
+    padding: 6px 12px;
+    margin: 30px 0px;
+    font-size: 20px;
+}
+.input-sec a{
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 7px 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: -4px;
+    font-size: 20px;
+}
+.para{
+    color: #fff;
+}
+
+
+/* about this product */
+#product-h5{
+    font-size: 28px;
+}
+#product-p{
+    color: gray;
+    line-height: 30px;
+}
+.mr-minus{
+    margin-top: -20px;
+}
+.two-btn{
+    margin-top: 30px;
+    
+}
+.two-btn a{
+    color: #000;
+    border: 2px solid #000;
+    padding: 5px 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+
+
+/* sexsy women lg img*/
+#women-back{
+    font-size: 40px;
+    color: #000;
+}
+.short-box{
+    background-color: #46DDB0;
+    padding: 20px 15px;
+    width: 459px;
+    height: 125px;
+    margin: -115px 0px 0px 170px
+}
+.short-box h1{
+    font-weight: bold;
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+}
+.short-box p{
+    color: #fff;
+    margin-left: 13px;
+}
+
+
+/* team leadership*/
+#img-position{
+    margin: 0 auto;
+}
+#icon{
+   background-color: gray; 
+   color: #fff;
+   padding: 10px;
+   border-radius: 50%;
+   font-size: 14px;
+}
+#icon:hover{
+    background-color: #000;
+    transition: .5s;
+}
+#table-position{
+    margin: 0 auto;
+}
+
+/* we offer service*/
+.media i{
+    font-size: 52px;
+    
+}
+
+/* testimonial section */
+.testi-img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+#italic-text{
+    margin: 0 auto;
+    width: 800px;
+    color: gray;
+    display: block;
+    padding: 20px 0px;
+    font-size: 22px;
+}
+
+/* block post */
+#block-a{
+    text-decoration: none;
+    color: #000;
+}
+
+/* form section */
+.form-position form{
+    margin: 0 auto;
+}
+
+#msg{
+    border: 1px solid #ced4da;
+}
+.{
+    
+}
+.{
+    
+}
